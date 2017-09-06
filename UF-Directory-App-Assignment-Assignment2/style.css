@@ -1,0 +1,48 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  color: #0C2550;
+  font-family: courier;
+  max-height: 500px;
+  overflow: auto;
+}
+table {
+  background: #f1f1f1;
+}
+
+  h1 {
+    color: #0C2550;
+    font-family: Arial;
+    text-shadow: 2px 2px #C2CEDF;
+    font-weight: bold;
+
+  }
+
+  h2 {
+    color: #576F94;
+    font-family: Courier;
+  }
+  body {
+    /*background-color: #9AA8C0; */
+    background: linear-gradient(#76849D, #E3ECFD)
+  }
+
+  .jumbotron{
+    background: #C2C8D1;
+    font-family: arial;
+    color: #7D828A;
+  }
+
+  .btn-primary{
+    background-color: #758294;
+   color: white;
+   border: 2px solid ##9EAFC8;
+  }
+  .btn-danger{
+    background-color:#5376AC;
+  }
+
+
+}
